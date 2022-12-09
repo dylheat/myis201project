@@ -1,0 +1,67 @@
+.myfont{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.mysubfont{
+        font-family: Arial, Helvetica, sans-serif;
+        color: whitesmoke !important;
+}
+.myimg{
+    width: 50% !important;
+}
+.myitalics{
+    font-style: italic;
+}
+.navbar{
+    font-family: 'Times New Roman', Times, serif;
+    font-style: bold !important;
+    color: black !important;
+}
+.navbox{
+    font-family: 'Times New Roman', Times, serif;
+    color: black !important;
+    background-color: tan !important;
+}
+.tableauformat{
+    width: 50%;
+    height: 50%;
+}
+.resumeEducation{
+    text-align: left;
+}
+.byuimg{
+    width: 25%;
+    height: 25%;
+}
+.scratchheaders{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-style: bold;
+    color: tan;
+    background-color: black;
+    font-size: large;
+    padding-top: 5px;
+}
+.subheaders{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: medium;
+    font-style: bold;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+.bodystuff{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: small
+}
+.controlcontrollables{
+    font-size: larger;
+}
+.bg{
+    background-color: black;
+}
+.scratchpage{
+    background-color: tan;
+    color: black;
+    text-align: center;
+}
